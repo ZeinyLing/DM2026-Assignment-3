@@ -14,9 +14,9 @@ pip install -r requirements.txt
 .
 ├── DM2_2_SVM.ipynb         
 ├── data/
-	├── activations.py                       
-	├── gradients.py                                             
-	└── utils.py           
+├	├── train/                       
+├	├── test/                                             
+├	└── sample_submission.csv           
 └── Others/                             
 	├── activations.py                       
 	├── gradients.py                       
