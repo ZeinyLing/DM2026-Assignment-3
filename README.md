@@ -28,5 +28,5 @@ pip install -r requirements.txt
 ### Usage
 
 ```bash
-python maskrcnn_train.py 
+python fulltrain_multiscale_se_resnet1d.py # main approach
 ```
