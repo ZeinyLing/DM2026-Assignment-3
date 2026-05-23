@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ```text
 .
-├── DM2_2_SVM.ipynb         
+├── fulltrain_multiscale_se_resnet1d.py   
 ├── data/
 ├	├── train/                       
 ├	├── test/                                             
