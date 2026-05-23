@@ -14,9 +14,9 @@ pip install -r requirements.txt
 .
 ├── fulltrain_multiscale_se_resnet1d.py   
 ├── data/
-├	├── train/                       
-├	├── test/                                             
-├	└── sample_submission.csv           
+│	├── train/                       
+│	├── test/                                             
+│	└── sample_submission.csv           
 └── Others/                             
 	├── activations.py                       
 	├── gradients.py                       
