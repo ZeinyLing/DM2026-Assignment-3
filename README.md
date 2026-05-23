@@ -12,9 +12,12 @@ pip install -r requirements.txt
 
 ```text
 .
-├── Others
 ├── DM2_2_SVM.ipynb         
-└── data/                             
+├── data/
+	├── activations.py                       
+	├── gradients.py                                             
+	└── utils.py           
+└── Others/                             
 	├── activations.py                       
 	├── gradients.py                       
 	├── linear_model.py                     
