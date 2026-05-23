@@ -2,7 +2,15 @@
 - Student ID: 314551087
 - Name: 黃奕睿
 
-## File Structure
+## Environment Setup
+
+### Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### File Structure
 
 ```text
 .
