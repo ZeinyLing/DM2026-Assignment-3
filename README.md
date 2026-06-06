@@ -30,7 +30,7 @@ python fulltrain_multiscale_se_resnet1d.py # main approach
 ```
 
 ### Other Model
-Other Model run by Colab, go to 'Others' Fold.
+Other Model run by Colab, go to `Others` Fold.
 
 - DM3_Inception.ipynb                     
 - DM3_LSTM.ipynb
