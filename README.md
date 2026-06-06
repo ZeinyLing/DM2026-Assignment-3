@@ -31,8 +31,6 @@ python fulltrain_multiscale_se_resnet1d.py # main approach
 
 ## Performance
 
-- Public test data AP50 :  0.5605
-
 | Model | Scores | 
 |------|------|
 | LSTM | 0.6875 |
