@@ -28,3 +28,19 @@ pip install -r requirements.txt
 ```bash
 python fulltrain_multiscale_se_resnet1d.py # main approach
 ```
+
+## Performance
+
+- Public test data AP50 :  0.5605
+
+| Model | Scores | 
+|------|------|
+| LSTM | 0.6875 |
+| TCN | 0.7318|
+| Inception | 0.7598 |
+| ResNet1D | 0.7824 |
+| Hybrid Multi-Scale SE-ResNet1D | 0.7940 |
+| Hybrid Multi-Scale SE-ResNet1D (w/o Val) | 0.8077 |
+
+## Performance snapshot
+<img src="img/scores.png" width="1000">
