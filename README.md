@@ -18,11 +18,9 @@ pip install -r requirements.txt
 │	├── test/                                             
 │	└── sample_submission.csv           
 └── Others/                             
-	├── activations.py                       
-	├── gradients.py                       
-	├── linear_model.py                     
-	├── metrics.py                          
-	└── utils.py                             
+	├── DM3_Inception.ipynb                     
+	├── DM3_LSTM.ipynb                     
+	└── DM3_TCN.ipynb                                       
 ```
 
 ### Usage
