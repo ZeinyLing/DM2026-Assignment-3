@@ -29,6 +29,13 @@ pip install -r requirements.txt
 python fulltrain_multiscale_se_resnet1d.py # main approach
 ```
 
+### Other Model
+Other Model run by Colab, go to Others
+
+- DM3_Inception.ipynb                     
+- DM3_LSTM.ipynb
+- DM3_TCN.ipynb    
+
 ## Performance
 
 | Model | Scores | 
