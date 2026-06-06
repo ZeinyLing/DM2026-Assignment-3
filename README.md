@@ -41,4 +41,4 @@ python fulltrain_multiscale_se_resnet1d.py # main approach
 | Hybrid Multi-Scale SE-ResNet1D (w/o Val) | 0.8077 |
 
 ## Performance snapshot
-<img src="img/scores.png" width="1000">
+<img src="Others/score.png" width="1000">
